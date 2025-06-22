@@ -9,4 +9,4 @@ Repositorio donde se encuentran los modelos usados para el hito 2 de aprendizaje
 
 // La carpeta aumentar dataset posee un archivo con el cual se usan tecnicas de data augmentation, y una carpeta con carpetas vacias para realizar la tecnica
 
-// los archivos base poseen los modelos de red neuronal que luego se exportaron
+// los archivos base poseen los modelos de red neuronal que luego se exportaron 
